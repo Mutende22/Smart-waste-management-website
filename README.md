@@ -25,3 +25,14 @@ This is a web-based platform built to demonstrate a smart waste management syste
 ```bash
 git clone https://github.com/your-username/smart-waste-management.git
 cd smart-waste-management
+
+
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
+
+
+
+pip install -r requirements.txt
+
+
+python manage.py runserver
