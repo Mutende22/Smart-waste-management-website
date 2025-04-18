@@ -1,2 +1,27 @@
-# Smart-waste-management-website
-Smart Waste Management is a simple, responsive website built with Django to showcase information about a company offering waste management services. The website includes static pages like Home, About Us, and Contact Us, designed to create awareness and provide users with essential company details.
+# ♻️ Smart Waste Management Website
+
+This is a web-based platform built to demonstrate a smart waste management system. The site allows users to interact with various waste management functionalities in a clean, responsive interface. 
+
+## 🌐 Features
+- Intuitive dashboard for managing waste collection
+- Clean, responsive UI design
+- Visual elements for educational and promotional purposes
+- Integrated with placeholder logic for future backend or IoT integrations
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Django (Python)
+- **Database:** SQLite (default for Django projects)
+
+## 📁 Project Structure
+
+
+
+ 
+
+## 🚀 Getting Started
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/your-username/smart-waste-management.git
+cd smart-waste-management
