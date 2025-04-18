@@ -23,16 +23,19 @@ This is a web-based platform built to demonstrate a smart waste management syste
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/smart-waste-management.git
+git clone https://github.com/Mutende_22/smart-waste-management.git
 cd smart-waste-management
 
+### 2. Set up a virtual environment:
+```bash
 
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 
-
-
+### 3. Install dependencies:
+```bash
 pip install -r requirements.txt
 
-
+### 4. Run the server:
+```bash
 python manage.py runserver
